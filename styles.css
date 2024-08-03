@@ -13,7 +13,7 @@ body {
 header {
     text-align: center;
     margin-top: 25px;
-    background-color: antiquewhite;
+/*     background-color: antiquewhite; */
 }
 
 header img {
@@ -23,7 +23,7 @@ header img {
 nav {
     text-align: center;
     margin-top: 25px;
-    background-color: darkolivegreen;
+/*     background-color: darkolivegreen; */
     height: 50px;
 }
 
@@ -42,11 +42,11 @@ nav a {
 }
 
 section {
-    background-color: orange;
+/*     background-color: orange; */
 }
 
 section div.box {
-    background-color: lightblue;
+/*     background-color: lightblue; */
     width: 50%;
     margin: 0px auto;
     padding-left: 30px;
